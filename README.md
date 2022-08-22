@@ -1,2 +1,2 @@
 # Slime Game
-A collection of games I have made in Unity
+A short platforming game about a slime that loves to jump.
